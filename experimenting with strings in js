@@ -1,0 +1,19 @@
+let opt1='english';
+let opt2='hindi';
+
+//let finalAns=`${opt1}${opt2}`;
+//console.log(finalAns);
+
+//let ans=opt1+opt2;
+//console.log(ans);
+
+//console.log(opt2.length)
+
+//console.log(opt1.toUpperCase());
+let str= "hellobaby";
+console.log(str.substring(2,8));
+
+let sentence="death gives meaning to life";
+let words = sentence.split(' ');
+console.log(words);
+
