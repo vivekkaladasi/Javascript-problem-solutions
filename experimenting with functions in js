@@ -1,0 +1,62 @@
+//console.log("sorry jesus");
+
+//function definition
+//function sayMyName(){
+ //   console.log("vivek");
+//}
+//function use-function call
+//sayMyName();
+
+//function counting(){
+
+ //   for(let  i=1;i<=100;i++){
+ //       console.log(i);
+ //   }
+//}
+ //   counting();
+
+ //function printingNumber(num){
+  //  console.log("printing number:",num);
+ //}
+ //printingNumber(5);
+
+
+ //function AverageOfNumber(num1,num2){
+   // let avg=(num1+num2)/2;
+ //   console.log("average of num1 and num2 is :",avg);
+ //}
+ //AverageOfNumber(10,2);
+
+
+
+ //return functions
+
+ //function getSum(a,b,c){
+//    let sum=(a+b+c);
+ //   return sum;
+ //}
+
+ ////let ans=getSum(1,2,3);
+ //console.log("printing sum of a+b+c:", ans);
+
+
+ //function getMyname(FirstName, SecondName){
+ //   let fullName = FirstName + " "+ SecondName;
+  //  return fullName;
+ //}
+ // let fullName=getMyname('vivek','kaladasi');
+ // console.log(fullName);
+
+//function multiplication(a,b){
+//    let ans = a*b;
+   // return ans;
+//}
+
+//let multipliedvalue=multiplication(3,3);
+//console.log(multipliedvalue);
+
+function getExp(x,y){
+let ans=x**y;
+return ans;
+}
+console.log(getExp(2,10));
